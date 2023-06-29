@@ -24,7 +24,7 @@ date_default_timezone_set('America/Lima');
 |
 */
 //$config['base_url'] = 'https://app.destinosglobal.com.pe/app';
-$config['base_url'] = 'http://localhost:80/app';// aca colocar el web server y puerto
+$config['base_url'] = 'http://localhost/app';// aca colocar el web server y puerto
 /*
 |--------------------------------------------------------------------------
 | Index File
