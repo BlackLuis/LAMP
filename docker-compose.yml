@@ -6,7 +6,7 @@ services:
 #--------------------------------------------------------------------------#
 #--------------------------------------------------------------------------#
     codeigniter4:
-        image: atsanna/codeigniter4:latest
+        image: atsanna/codeigniter4:alpine
 #        image: atsanna/codeigniter4:v4.2.3-php8.1-apache
 #        image: atsanna/codeigniter4:v4.2.3-php8.1.9-apache
 #        image: atsanna/codeigniter4:v4.2.3-php8.0-apache
